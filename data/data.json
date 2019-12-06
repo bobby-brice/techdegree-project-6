@@ -1,0 +1,52 @@
+{
+  "projects": [{
+      "id": 0,
+      "project_name": "A Random Quote Generator",
+      "description": "Random quotes appear at timed intervals with different background colors",
+      "technologies": ["HTML", "JavaScript", "CSS"],
+      "live_link": "https://bobby-brice.github.io/techdegree-project-1/",
+      "github_link": "https://github.com/bobby-brice/techdegree-project-1",
+      "image_urls": ["/static/images/randomQuote.jpg", "/static/images/randomQuoteLarge"]
+    },
+
+    {
+      "id": 1,
+      "project_name": "List Pagination and Filtering",
+      "description": "Student list displays ten users per page and dynamically changes through a search function",
+      "technologies": ["HTML", "JavaScript", "CSS"],
+      "live_link": "https://bobby-brice.github.io/techdegree-project-2/",
+      "github_link": "https://github.com/bobby-brice/techdegree-project-2",
+      "image_urls": ["/static/images/studentDir.jpg", "/static/images/studentDirLarge.jpg"]
+    },
+
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "Registration form programmed to validate and accept specific user generated information, show real-time errors, and submit the form when completed successfully",
+      "technologies": ["HTML", "JavaScript", "CSS", "jQuery"],
+      "live_link": "https://bobby-brice.github.io/techdegree-project-3/",
+      "github_link": "https://github.com/bobby-brice/techdegree-project-3",
+      "image_urls": ["/static/images/interactiveForm.jpg", "/static/images/intFormLarge.jpg"]
+    },
+
+    {
+      "id": 3,
+      "project_name": "OOP Game Show App",
+      "description": "Phrase Hunger game app that allows player to guess the letters in a secret phrase",
+      "technologies": ["HTML", "JavaScript", "CSS", "OOP JS"],
+      "live_link": "https://bobby-brice.github.io/techdegree-project-4/",
+      "github_link": "https://github.com/bobby-brice/techdegree-project-4",
+      "image_urls": ["/static/images/phraseHunter", "/static/images/phraseHungerLarge.jpg"]
+    },
+
+    {
+      "id": 4,
+      "project_name": "Public API Request",
+      "description": "Employee directory app created using random user generator API",
+      "technologies": ["HTML", "JavaScript", "CSS", "AJAX"],
+      "live_link": "https://bobby-brice.github.io/techdegree-project-5/",
+      "github_link": "https://github.com/bobby-brice/techdegree-project-5",
+      "image_urls": ["/static/images/awesomeStart.jpg", "/static/images/startupLarge.jpg"]
+    }
+  ]
+}
