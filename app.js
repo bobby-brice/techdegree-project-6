@@ -20,16 +20,23 @@ app.use('/projects', project);
 
 //Middleware to catch errors
 app.use((req, res, next) => {
-  const err = new Error('Uh Oh, the page cannot be found');
+  console.error('Uh Oh, the page cannot be found');
+  const err = new Error('The page cannot be found');
   err.status = 404;
   next(err);
 });
 
+app.use((req, res, next) => {
+  const err = new Error('Sorry, an error occurred');
+  console.error("An Error Occurred");
+  err.status = 500;
+  next(err);
+});
+
 app.use((err, req, res, next) => {
-  res.locals.err = err;
-  const status = err.status || 500;
-  res.status(status);
-  res.render('error', err);
+  res.locals.error = err;
+  res.status(err.status);
+  res.render('error');
 });
 
 //establish our local host port

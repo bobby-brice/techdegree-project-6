@@ -122,7 +122,7 @@ a:hover{
 
   .portfolio-index .cell{
     margin-bottom: 15px;
-    box-shadow: 5px 5px 5px 5px grey;
+    box-shadow: 5px 5px 5px 5px lightsteelblue;
   }
 
     .portfolio-index .cell h5{
@@ -149,4 +149,11 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+.logo {
+  max-width: 75px;
+  max-height: 75px;
+  display: flex;
+  margin: 0 auto;
 }

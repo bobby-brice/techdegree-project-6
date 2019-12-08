@@ -47,6 +47,15 @@
       "live_link": "https://bobby-brice.github.io/techdegree-project-5/",
       "github_link": "https://github.com/bobby-brice/techdegree-project-5",
       "image_urls": ["/static/images/awesomeStart.jpg", "/static/images/startupLarge.jpg"]
+    },
+    {
+      "id": 5,
+      "project_name": "Superhero API",
+      "description": "A simple comic news blog with a search feature that uses a superhero API to generate all the available characters in a model. The modal displays the name, image and powerstats to compare characters.",
+      "technologies": ["HTML", "jQuery", "CSS", "AJAX"],
+      "live_link": "https://bobby-brice.github.io/Comics/",
+      "github_link": "https://github.com/bobby-brice/Comics",
+      "image_urls": ["/static/images/comic.jpg", "/static/images/comicLarge.jpg"]
     }
   ]
 }
