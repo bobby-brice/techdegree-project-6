@@ -1,0 +1,8 @@
+extends layout.pug
+//- displays error in browser when user navigates to page that does not exist
+block content
+        h1= err.message
+        h2= err.status
+        pre= err.stack
+
+        a(href='/') ← Back
