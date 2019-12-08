@@ -5,7 +5,7 @@ html(class="no-js" lang="en" dir="ltr")
     meta(http-equiv='x-ua-compatible', content='ie=edge')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     title Portfolio Site
-    link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
+    link(href='https://fonts.googleapis.com/css?family=Raleway:300,400,400i,700,800', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
   body
@@ -17,15 +17,15 @@ html(class="no-js" lang="en" dir="ltr")
             img.thumbnail(src='/static/images/profile.jpg')
           .cell.auto
 
-            //- Add your name here.
+            
             h5 Bobby Brice
 
-            //- Add text here to describe who you are, what you do, and why you are so awesome.
             p.text-light
               |I'm a seasoned manager with more than 10 years' experience in Financial Services. I'm passionate about delivering the best client experience to internal/external stakeholders and I've spent the last 6 years mentoring and developing employees to reach their career goals.
+              br
+              br
               | Currently, I'm completing the Team Treehouse Full Stack certificate and considering a full time immersive bootcamp. My goal is to become a developer that solves problems using clean, semantic code and solid logic while creating interactive web experiences that inspire and engage users. 
 
-            //- Add about page route to the href below. 
             a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
@@ -33,12 +33,9 @@ html(class="no-js" lang="en" dir="ltr")
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
 
-          //- Add your name here.  This is for the mobile screen sized version.
           span.title-bar-title Bobby Brice
       block content
-        
-
-      
+            
   script(src='/static/js/vendor/jquery.js')
   script(src='/static/js/vendor/what-input.js')
   script(src='/static/js/vendor/foundation.js')

@@ -1,6 +1,6 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Raleway', sans-serif;
 }
 
   h5{
@@ -122,10 +122,12 @@ a:hover{
 
   .portfolio-index .cell{
     margin-bottom: 15px;
+    box-shadow: 5px 5px 5px 5px grey;
   }
 
     .portfolio-index .cell h5{
       letter-spacing: 1px;
+      text-align: center;
     }
 
 .portfolio-meta{

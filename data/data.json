@@ -6,7 +6,7 @@
       "technologies": ["HTML", "JavaScript", "CSS"],
       "live_link": "https://bobby-brice.github.io/techdegree-project-1/",
       "github_link": "https://github.com/bobby-brice/techdegree-project-1",
-      "image_urls": ["/static/images/randomQuote.jpg", "/static/images/randomQuoteLarge"]
+      "image_urls": ["/static/images/randomQuote.jpg", "/static/images/randomQuoteLarge.jpg"]
     },
 
     {
@@ -36,7 +36,7 @@
       "technologies": ["HTML", "JavaScript", "CSS", "OOP JS"],
       "live_link": "https://bobby-brice.github.io/techdegree-project-4/",
       "github_link": "https://github.com/bobby-brice/techdegree-project-4",
-      "image_urls": ["/static/images/phraseHunter", "/static/images/phraseHungerLarge.jpg"]
+      "image_urls": ["/static/images/phraseHunter.jpg", "/static/images/phraseHunterLarge.jpg"]
     },
 
     {

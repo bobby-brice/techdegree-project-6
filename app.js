@@ -1,8 +1,6 @@
 const express = require('express');
 const app = express();
-const router = express.Router();
 const path = require('path');
-const { projects } = require('./data/data.json');
 
 const index = require('./routes/index');
 const about = require('./routes/about');
@@ -18,11 +16,11 @@ app.use('/', index);
 app.use('/about', about);
 
 //Setting the project route
-app.use('/project', project);
+app.use('/projects', project);
 
 //Middleware to catch errors
 app.use((req, res, next) => {
-  const err = new Error('Not Found');
+  const err = new Error('Uh Oh, the page cannot be found');
   err.status = 404;
   next(err);
 });
@@ -34,7 +32,7 @@ app.use((err, req, res, next) => {
   res.render('error', err);
 });
 
-
+//establish our local host port
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`));
