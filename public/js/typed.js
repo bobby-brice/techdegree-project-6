@@ -1,5 +1,5 @@
 const typed = new Typed('.typedStrings', {
-  strings: ['Full Stack Developer', 'Dog Lover', 'Photographer', 'Traveler'],
+  strings: ['Dog Lover', 'Full Stack Developer', 'Photographer', 'Traveler'],
   typeSpeed: 60,
   backSpeed: 40,
   cursor: false,
