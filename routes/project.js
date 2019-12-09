@@ -21,6 +21,7 @@ router.get('/:id', (req, res, next) => {
     github_link,
     live_link
   } = projects[id];
+
   const projectInfo = {
     projectName,
     technologies,
@@ -29,6 +30,7 @@ router.get('/:id', (req, res, next) => {
     github_link,
     live_link
   };
+  
   return res.render('project', {
     projectInfo
   });

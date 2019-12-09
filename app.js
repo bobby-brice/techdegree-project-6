@@ -2,10 +2,12 @@ const express = require('express');
 const app = express();
 const path = require('path');
 
+//adding in the pug routes
 const index = require('./routes/index');
 const about = require('./routes/about');
 const project = require('./routes/project');
 
+//setting the view engine and the static path
 app.set('view engine', 'pug');
 app.use('/static', express.static(path.join(__dirname, 'public')));
 

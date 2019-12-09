@@ -6,7 +6,7 @@
       "technologies": ["HTML", "JavaScript", "CSS"],
       "live_link": "https://bobby-brice.github.io/techdegree-project-1/",
       "github_link": "https://github.com/bobby-brice/techdegree-project-1",
-      "image_urls": ["/static/images/randomQuote.jpg", "/static/images/randomQuoteLarge.jpg"]
+      "image_urls": ["/static/images/randomQuote1.png", "/static/images/randomQuote2.png", "/static/images/randomQuote3.png", "/static/images/randomQuote4.png"]
     },
 
     {
@@ -16,7 +16,7 @@
       "technologies": ["HTML", "JavaScript", "CSS"],
       "live_link": "https://bobby-brice.github.io/techdegree-project-2/",
       "github_link": "https://github.com/bobby-brice/techdegree-project-2",
-      "image_urls": ["/static/images/studentDir.jpg", "/static/images/studentDirLarge.jpg"]
+      "image_urls": ["/static/images/studentDir1.png", "/static/images/studentDir2.png", "/static/images/studentDir3.png", "/static/images/studentDir4.png "]
     },
 
     {
@@ -26,7 +26,7 @@
       "technologies": ["HTML", "JavaScript", "CSS", "jQuery"],
       "live_link": "https://bobby-brice.github.io/techdegree-project-3/",
       "github_link": "https://github.com/bobby-brice/techdegree-project-3",
-      "image_urls": ["/static/images/interactiveForm.jpg", "/static/images/intFormLarge.jpg"]
+      "image_urls": ["/static/images/interactiveForm1.png", "/static/images/interactiveForm2.png", "/static/images/interactiveForm3.png", "/static/images/interactiveForm4.png" ]
     },
 
     {
@@ -36,7 +36,7 @@
       "technologies": ["HTML", "JavaScript", "CSS", "OOP JS"],
       "live_link": "https://bobby-brice.github.io/techdegree-project-4/",
       "github_link": "https://github.com/bobby-brice/techdegree-project-4",
-      "image_urls": ["/static/images/phraseHunter.jpg", "/static/images/phraseHunterLarge.jpg"]
+      "image_urls": ["/static/images/phraseHunter1.png", "/static/images/phraseHunter2.png", "/static/images/phraseHunter3.png", "/static/images/phraseHunter4.png"]
     },
 
     {
@@ -46,7 +46,7 @@
       "technologies": ["HTML", "JavaScript", "CSS", "AJAX"],
       "live_link": "https://bobby-brice.github.io/techdegree-project-5/",
       "github_link": "https://github.com/bobby-brice/techdegree-project-5",
-      "image_urls": ["/static/images/awesomeStart.jpg", "/static/images/startupLarge.jpg"]
+      "image_urls": ["/static/images/startup1.png", "/static/images/startup2.png", "/static/images/startup3.png", "/static/images/startup4.png"]
     },
     {
       "id": 5,
@@ -55,7 +55,7 @@
       "technologies": ["HTML", "jQuery", "CSS", "AJAX"],
       "live_link": "https://bobby-brice.github.io/Comics/",
       "github_link": "https://github.com/bobby-brice/Comics",
-      "image_urls": ["/static/images/comic.jpg", "/static/images/comicLarge.jpg"]
+      "image_urls": ["/static/images/comic1.png", "/static/images/comic2.png", "/static/images/comic3.png", "/static/images/comic4.png"]
     }
   ]
 }
