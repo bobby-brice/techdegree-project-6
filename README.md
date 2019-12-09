@@ -24,6 +24,10 @@ install pug using:
 ```
 npm install pug --save
 ```
+install typed.js to get the typing text effect
+```
+npm install typed.js
+```
 Optional
  Nodemon is installed to autorefresh the server after changes using:
  ```
