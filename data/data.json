@@ -4,7 +4,7 @@
       "project_name": "React Flickr App",
       "description": "Use the Flickr API to search images or select from 3 presets",
       "technologies": ["React", "HTML", "CSS"],
-      "live_link": "https://bobby-brice.github.io/techdegree-project-7/",
+      "live_link": "https://bobbybrice-react-flickr-app.netlify.com/",
       "github_link": "https://github.com/bobby-brice/techdegree-project-7",
       "image_urls": ["/static/images/reactFlickr1.png", "/static/images/reactFlickr2.png", "/static/images/reactFlickr3.png", "/static/images/reactFlickr4.png"]
     },
