@@ -1,5 +1,4 @@
 {
-  "homepage": "https://bobby-brice.github.io/techdegree-project-6/",
   "name": "techdegree-project-6",
   "version": "1.0.0",
   "description": "Static Node.js and Express Site",
@@ -14,8 +13,6 @@
     "nodemon": "^2.0.1"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy": "techdegree-project-6 -d build",
     "start": "node app",
     "dev": "nodemon app"
   },
@@ -31,5 +28,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bobby-brice/techdegree-project-6/issues"
-  }
+  },
+  "homepage": "https://github.com/bobby-brice/techdegree-project-6#readme"
 }
