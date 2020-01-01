@@ -1,12 +1,12 @@
 {
   "projects": [{
       "id": 0,
-      "project_name": "A Random Quote Generator",
-      "description": "Random quotes appear at timed intervals with different background colors",
-      "technologies": ["HTML", "JavaScript", "CSS"],
-      "live_link": "https://bobby-brice.github.io/techdegree-project-1/",
-      "github_link": "https://github.com/bobby-brice/techdegree-project-1",
-      "image_urls": ["/static/images/randomQuote1.png", "/static/images/randomQuote2.png", "/static/images/randomQuote3.png", "/static/images/randomQuote4.png"]
+      "project_name": "React Flickr App",
+      "description": "Use the Flickr API to search images or select from 3 presets",
+      "technologies": ["React", "HTML", "CSS"],
+      "live_link": "https://bobby-brice.github.io/techdegree-project-7/",
+      "github_link": "https://github.com/bobby-brice/techdegree-project-7",
+      "image_urls": ["/static/images/reactFlickr1.png", "/static/images/reactFlickr2.png", "/static/images/reactFlickr3.png", "/static/images/reactFlickr4.png"]
     },
 
     {
@@ -56,6 +56,15 @@
       "live_link": "https://bobby-brice.github.io/Comics/",
       "github_link": "https://github.com/bobby-brice/Comics",
       "image_urls": ["/static/images/comic1.png", "/static/images/comic2.png", "/static/images/comic3.png", "/static/images/comic4.png"]
+    },
+    {
+      "id": 0,
+      "project_name": "A Random Quote Generator",
+      "description": "Random quotes appear at timed intervals with different background colors",
+      "technologies": ["HTML", "JavaScript", "CSS"],
+      "live_link": "https://bobby-brice.github.io/techdegree-project-1/",
+      "github_link": "https://github.com/bobby-brice/techdegree-project-1",
+      "image_urls": ["/static/images/randomQuote1.png", "/static/images/randomQuote2.png", "/static/images/randomQuote3.png", "/static/images/randomQuote4.png"]
     }
   ]
 }
