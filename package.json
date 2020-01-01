@@ -1,4 +1,5 @@
 {
+  "homepage": "https://bobby-brice.github.io/techdegree-project-7/",
   "name": "techdegree-project-6",
   "version": "1.0.0",
   "description": "Static Node.js and Express Site",
@@ -9,9 +10,12 @@
     "typed.js": "^2.0.11"
   },
   "devDependencies": {
+    "gh-pages": "^2.1.1",
     "nodemon": "^2.0.1"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy": "techdegree-project-7 -d build",
     "start": "node app",
     "dev": "nodemon app"
   },
