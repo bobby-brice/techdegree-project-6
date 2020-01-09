@@ -58,7 +58,7 @@
       "image_urls": ["/static/images/comic1.png", "/static/images/comic2.png", "/static/images/comic3.png", "/static/images/comic4.png"]
     },
     {
-      "id": 0,
+      "id": 6,
       "project_name": "A Random Quote Generator",
       "description": "Random quotes appear at timed intervals with different background colors",
       "technologies": ["HTML", "JavaScript", "CSS"],
