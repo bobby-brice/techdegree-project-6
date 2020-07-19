@@ -26,7 +26,7 @@
       "technologies": ["HTML", "JavaScript", "CSS", "jQuery"],
       "live_link": "https://bobby-brice.github.io/techdegree-project-3/",
       "github_link": "https://github.com/bobby-brice/techdegree-project-3",
-      "image_urls": ["/static/images/interactiveForm1.png", "/static/images/interactiveForm2.png", "/static/images/interactiveForm3.png", "/static/images/interactiveForm4.png" ]
+      "image_urls": ["/static/images/interactiveForm1.png", "/static/images/interactiveForm2.png", "/static/images/interactiveForm3.png", "/static/images/interactiveForm4.png"]
     },
 
     {
